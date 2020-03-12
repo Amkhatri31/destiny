@@ -1,6 +1,9 @@
-# destiny
+# destiny🤔
 
-A new Flutter project.
+A decision making application.
+
+
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/Destini.gif)
 
 ## Getting Started
 
